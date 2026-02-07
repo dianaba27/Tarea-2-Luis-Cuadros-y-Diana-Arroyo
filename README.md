@@ -37,7 +37,7 @@ El trabajo está diseñado para ser reproducible y desplegable, separando claram
 ├── pyproject.toml             # Dependencias / configuración del proyecto
 └── uv.lock                    # Lockfile de dependencias (reproducibilidad)
 
-...
+```
 ---
 
 ## Instalación y setup

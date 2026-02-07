@@ -102,8 +102,7 @@ Outputs esperados:
 
 ### Métricas del modelo
 
-- RMSE (validación): ≈ 2.37
-- RMSE reportado (resumen): ≈ 2.36
+- RMSE obtenido: ≈ 2.36
 - Kaggle Public Score: 1.98078
      - Link: https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/leaderboard
 

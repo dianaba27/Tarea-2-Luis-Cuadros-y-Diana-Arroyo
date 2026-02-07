@@ -52,9 +52,9 @@ Este repo usa uv para instalar dependencias y ejecutar scripts de forma reproduc
 ## Cómo ejecutar el pipeline
 
 Se debe de ejecutar estos comandos desde la raíz del repositorio:
-uv run python -m src.prep
-uv run python -m src.train
-uv run python -m src.inference
+- uv run python -m src.prep
+- uv run python -m src.train
+- uv run python -m src.inference
 
 Outputs esperados:
 - `src.prep`
@@ -95,16 +95,16 @@ Outputs esperados:
 
 
 #### Logging
-Se creó el directorio de logs: mkdir artifacts/logs
+- Se creó el directorio de logs: mkdir artifacts/logs
 
 
 ---
 
 ### Métricas del modelo
 
-RMSE (validación): ≈ 2.37
-RMSE reportado (resumen): ≈ 2.36
-Kaggle Public Score: 1.98078
+- RMSE (validación): ≈ 2.37
+- RMSE reportado (resumen): ≈ 2.36
+- Kaggle Public Score: 1.98078
 
 ---
 
